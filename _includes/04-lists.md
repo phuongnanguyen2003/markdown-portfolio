@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Trail of Blood
+* Oyasumi Punpun
+  * Punpun
+  * Harumin 
